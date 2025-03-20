@@ -1,4 +1,7 @@
 // src/App.js
+// npx create-react-app educational-website
+// cd educational-website
+
 import React from "react";
 import ModuleList from "./components/ModuleList";
 import "./App.css";
